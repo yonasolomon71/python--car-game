@@ -25,8 +25,6 @@ Pygame library
 Install dependencies with:
 
 bash
-ቅዳ
-አርትዕ
 pip install pygame
 ▶️ How to Play
 Run the game using:
